@@ -55,20 +55,35 @@ print(list06)
 list06.pop()
 print(list06)
 
-list06.clear()
-print(list06)
+# list06.clear()
+# print(list06)
 
-# 列表修改元素
-
+# 列表修改元素.
+list07 = ["insert", "extend", "append", "index", "count"]
+list07[2] = list07[2].upper()
+print(list07)
+list07[3] = 123
+print(list07)
 
 # 列表生成式.
+# 学完for循环之后的写法.
+list08 = []
+for i in range(1, 101):
+    if i % 2 == 0:
+        list08.append(i)
+print("list08: ", list08)
+
+# 学完列表生成器的写法.
+list09 = [i for i in range(1, 101) if i % 2 == 0 and i % 3 == 0]
+print("list09: ", list09)
+# list09 = [x for x in range(1, 101) if x % 2 == 1]
+
 
 # 列表排序之冒泡排序.
-# list_mao = [92, 43, 67, 23, 2, 11, 26, 79, 20, 41]
-# for c in range(len(list_mao)):
-#     for j in range(len(list_mao)-1):
-#         if list_mao[j] > list_mao[c]:
-#             list_mao[j], list_mao[c] = list_mao[c], list_mao[j]
-# print(list_mao)
-
+list_mao = [92, 43, 67, 23, 2, 11, 26, 79, 20, 41]
+for c in range(len(list_mao)):
+    for j in range(len(list_mao)-1):
+        if list_mao[j] > list_mao[c]:
+            list_mao[j], list_mao[c] = list_mao[c], list_mao[j]
+print(list_mao)
 
