@@ -46,14 +46,15 @@ if var03 == "canglaoshi":
     print(var04)
     print(var03)
 
+# 字符串的大小写转换.
+var03 = "This Is My Friends."
+print(var03.upper())
+print(var03.lower())
 
 
-
-
-
-
-
-
-
-
-
+# 字符串的加法、乘法.
+var04, var05 = "cang", "laoshi"
+print(var04 + var05)
+print((var04+var05)*10)
+print(var05*10)
+print(var04 + " " + var05)
