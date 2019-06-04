@@ -1,1 +1,3 @@
-China: url:http://192.168.161.3:8080/futureloan/mvc/api/member/login,mobilephone:18988988889,pwd:qfcc
+China: url:http://192.168.161.3:8080/mvc/api/member/login,UserName:Tom,PassWord:BavDu2019
+Sydney: url:http://20.45.89.13:8081/mvc/api/member/login,UserName:Tony,PassWord:BavDu2018
+NewYork: url:http://85.47.123.25:8082/mvc/api/member/login,UserName:Jerry,PassWord:BavDu2017
