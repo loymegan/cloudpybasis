@@ -94,5 +94,13 @@ for key in dict01:
     print(key, dict01[key])
 
 
+# 字典生成式01
+list01 = ["key01", "key02", "key03", "key04", "key05"]
+dict04 = {}.fromkeys(list01)
+print(dict04)
 
+# 字典生成式02
+dict05 = {keys: None for keys in list01}
 
+# 字典生成式03
+dict06 = {keys: 100 for keys in range(11) if keys % 3 != 0}
