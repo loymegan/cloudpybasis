@@ -104,3 +104,43 @@ dict05 = {keys: None for keys in list01}
 
 # 字典生成式03
 dict06 = {keys: 100 for keys in range(11) if keys % 3 != 0}
+
+
+# 思考题:
+#   把以下信息添加到information字典中.
+# url:http://192.168.161.3:8080/futureloan/mvc/api/member/login,mobilephone:18988988889,pwd:qfcc
+
+information = {
+    "China":
+        {
+            "URL": None,
+            "MobilePhone": None,
+            "PassWord": None
+        }
+}
+
+info = "url:http://192.168.161.3:8080/futureloan/mvc/api/member/login,mobilephone:18988988889,pwd:qfcc"
+infolist = info.split(",")
+for s in infolist:
+    if s[0:3] == "url":
+        information["China"]["URL"] = s[4:]
+    elif s[0:11] == "mobilephone":
+        information["China"]["MobilePhone"] = s[12:]
+    elif s[0:3] == "pwd":
+        information["China"]["PassWord"] = s[4:]
+print(information)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
