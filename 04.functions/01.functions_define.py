@@ -43,11 +43,26 @@ def openfile(path):
 f = openfile("./information")
 
 # 01.实现一个加法函数Mysum, 可以传进两个参数, 让这两个参数进行相加.
+def Mysum(a, b):
+    print(a + b)
+
+
+Mysum(10, 45)
 
 # 02.实现一个大小写转换的函数Myupper, 可以把字符串传进去返回一个全部被转换大写的字符串
+def Myupper(string):
+    print(string.upper())
+
+
+Myupper("abc")
 
 # 03.实现一个对列表排序的函数Mysorted, 输入一个列表进去, 可以把列表中的数字进行排序
+def Mysorted(list):
+    list.sort()
+    print(list)
 
+
+Mysorted([1, 9, 2, 4, 3])
 
 
 
