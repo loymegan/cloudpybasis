@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainExam/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/chaoliu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/chaoliu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.functions_advanced/TrainExam.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.functions_advanced/TrainExam.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +19,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trainExam/information">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trainExam/function.py">
+        <entry file="file://$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="206">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -68,6 +93,11 @@
         <option value="$PROJECT_DIR$/trainExam/answer.py" />
         <option value="$PROJECT_DIR$/trainExam/ExamTrain.txt" />
         <option value="$PROJECT_DIR$/trainExam/function.py" />
+        <option value="$PROJECT_DIR$/05.functions_advanced/TrainExam.py" />
+        <option value="$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py" />
+        <option value="$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py" />
+        <option value="$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py" />
+        <option value="$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py" />
       </list>
     </option>
   </component>
@@ -95,7 +125,7 @@
             <path>
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="trainExam" type="462c0819:PsiDirectoryNode" />
+              <item name="05.functions_advanced" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,8 +153,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function">
-    <configuration name="02.dataStructure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04.functions_nm">
+    <configuration name="01.functions_dt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainExam/02.dataStructure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02.functions_qt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainExam/03.condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.functions_dg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +206,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainExam/04.cycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04.functions_nm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,12 +228,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainExam/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TrainExam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +250,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainExam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainExam/function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/TrainExam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.function" />
-        <item itemvalue="Python.answer" />
-        <item itemvalue="Python.04.cycle" />
-        <item itemvalue="Python.03.condition" />
-        <item itemvalue="Python.02.dataStructure" />
+        <item itemvalue="Python.04.functions_nm" />
+        <item itemvalue="Python.03.functions_dg" />
+        <item itemvalue="Python.02.functions_qt" />
+        <item itemvalue="Python.01.functions_dt" />
+        <item itemvalue="Python.TrainExam" />
       </list>
     </recent_temporary>
   </component>
@@ -271,17 +301,17 @@
       <workItem from="1559716596367" duration="10268000" />
       <workItem from="1559740388571" duration="200000" />
       <workItem from="1559751972764" duration="1920000" />
+      <workItem from="1559783307296" duration="7352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62796000" />
+    <option name="totallyTimeSpent" value="70148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16168973" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16387473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,15 +346,20 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
     <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$function.coverage" NAME="function Coverage Results" MODIFIED="1559754002232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$04_functions_nm.coverage" NAME="04.functions_nm Coverage Results" MODIFIED="1559791103181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$answer.coverage" NAME="answer Coverage Results" MODIFIED="1559727023995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_functions_dg.coverage" NAME="03.functions_dg Coverage Results" MODIFIED="1559789568939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$examtrain.coverage" NAME="examtrain Coverage Results" MODIFIED="1559529055074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_cycle.coverage" NAME="04.cycle Coverage Results" MODIFIED="1559724160072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_tuple.coverage" NAME="04.tuple Coverage Results" MODIFIED="1559544719896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1559785355423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_functions_qt.coverage" NAME="02.functions_qt Coverage Results" MODIFIED="1559787026730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$06_filewith.coverage" NAME="06.filewith Coverage Results" MODIFIED="1559552840939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$fileio.coverage" NAME="fileio Coverage Results" MODIFIED="1559661195990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_define.coverage" NAME="01.functions_define Coverage Results" MODIFIED="1559708029992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_set.coverage" NAME="02.set Coverage Results" MODIFIED="1559636633510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$TrainExam.coverage" NAME="TrainExam Coverage Results" MODIFIED="1559784988476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_dataStructure.coverage" NAME="02.dataStructure Coverage Results" MODIFIED="1559720427484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
   </component>
   <component name="editorHistoryManager">
@@ -419,7 +454,49 @@
     <entry file="file://$PROJECT_DIR$/trainExam/function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/TrainExam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
