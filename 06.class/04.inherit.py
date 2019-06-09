@@ -20,6 +20,7 @@ class Dog(Animal):
     #     Animal.__init__(self, leg=4, mouse="length", eye=2)
     #     self.variety = variety
     def __init__(self, leg, mouse, eye, variety):
+        # 定义新的类并对原来的类中的属性进行实例化
         super().__init__(leg, mouse, eye)
         self.variety = variety
 
