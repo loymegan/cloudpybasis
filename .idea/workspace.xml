@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05.functions_advanced/05.functions_zyy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/01.class_define.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/02.atrribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/03.method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/04.inherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,47 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05.functions_advanced/05.functions_zyy.py">
+        <entry file="file://$PROJECT_DIR$/06.class/04.inherit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="25">
+              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -103,6 +71,10 @@
         <option value="$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py" />
         <option value="$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py" />
         <option value="$PROJECT_DIR$/05.functions_advanced/05.functions_zyy.py" />
+        <option value="$PROJECT_DIR$/06.class/01.class_define.py" />
+        <option value="$PROJECT_DIR$/06.class/02.atrribute.py" />
+        <option value="$PROJECT_DIR$/06.class/03.method.py" />
+        <option value="$PROJECT_DIR$/06.class/04.inherit.py" />
       </list>
     </option>
   </component>
@@ -120,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,13 +103,12 @@
             <path>
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="05.functions_advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="06.class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,8 +130,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05.functions_zyy">
-    <configuration name="01.functions_dt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04.inherit">
+    <configuration name="01.class_define" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/01.class_define.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.functions_qt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02.atrribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/02.atrribute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.functions_dg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/03.functions_dg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/03.method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.functions_nm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04.inherit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/04.inherit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04.inherit" />
+        <item itemvalue="Python.03.method" />
+        <item itemvalue="Python.02.atrribute" />
+        <item itemvalue="Python.01.class_define" />
         <item itemvalue="Python.05.functions_zyy" />
-        <item itemvalue="Python.04.functions_nm" />
-        <item itemvalue="Python.03.functions_dg" />
-        <item itemvalue="Python.02.functions_qt" />
-        <item itemvalue="Python.01.functions_dt" />
       </list>
     </recent_temporary>
   </component>
@@ -308,18 +280,18 @@
       <workItem from="1559751972764" duration="1920000" />
       <workItem from="1559783307296" duration="7352000" />
       <workItem from="1559791191048" duration="32000" />
-      <workItem from="1559791599298" duration="1295000" />
+      <workItem from="1559791599298" duration="1739000" />
+      <workItem from="1560043209000" duration="5583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71475000" />
+    <option name="totallyTimeSpent" value="77502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16824472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17042972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -350,25 +322,29 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$01_dataType.coverage" NAME="01.dataType Coverage Results" MODIFIED="1559719397020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_dict.coverage" NAME="01.dict Coverage Results" MODIFIED="1559632577316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_condition.coverage" NAME="03.condition Coverage Results" MODIFIED="1559720957732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$function.coverage" NAME="function Coverage Results" MODIFIED="1559754002232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_functions_nm.coverage" NAME="04.functions_nm Coverage Results" MODIFIED="1559791103181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$answer.coverage" NAME="answer Coverage Results" MODIFIED="1559727023995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_functions_dg.coverage" NAME="03.functions_dg Coverage Results" MODIFIED="1559789568939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$examtrain.coverage" NAME="examtrain Coverage Results" MODIFIED="1559529055074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_cycle.coverage" NAME="04.cycle Coverage Results" MODIFIED="1559724160072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$04_tuple.coverage" NAME="04.tuple Coverage Results" MODIFIED="1559544719896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1559785355423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$04_inherit.coverage" NAME="04.inherit Coverage Results" MODIFIED="1560050918554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_functions_qt.coverage" NAME="02.functions_qt Coverage Results" MODIFIED="1559787026730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$06_filewith.coverage" NAME="06.filewith Coverage Results" MODIFIED="1559552840939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$fileio.coverage" NAME="fileio Coverage Results" MODIFIED="1559661195990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$05_functions_zyy.coverage" NAME="05.functions_zyy Coverage Results" MODIFIED="1559792690801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_define.coverage" NAME="01.functions_define Coverage Results" MODIFIED="1559708029992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$02_set.coverage" NAME="02.set Coverage Results" MODIFIED="1559636633510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$TrainExam.coverage" NAME="TrainExam Coverage Results" MODIFIED="1559784988476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_class_define.coverage" NAME="01.class_define Coverage Results" MODIFIED="1560043905697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$examtrain.coverage" NAME="examtrain Coverage Results" MODIFIED="1559529055074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_atrribute.coverage" NAME="02.atrribute Coverage Results" MODIFIED="1560046097040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$04_tuple.coverage" NAME="04.tuple Coverage Results" MODIFIED="1559544719896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1559785355423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_method.coverage" NAME="03.method Coverage Results" MODIFIED="1560048462671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$06_filewith.coverage" NAME="06.filewith Coverage Results" MODIFIED="1559552840939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_set.coverage" NAME="02.set Coverage Results" MODIFIED="1559636633510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_dataStructure.coverage" NAME="02.dataStructure Coverage Results" MODIFIED="1559720427484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
   </component>
   <component name="editorHistoryManager">
@@ -504,15 +480,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
+        <state relative-caret-position="1080">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.functions_advanced/05.functions_zyy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="387">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/01.class_define.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/02.atrribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/03.method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/04.inherit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
         </state>
       </provider>
     </entry>
