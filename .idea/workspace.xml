@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08.stdlib_module/01.oslibs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="395">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.stdlib_module/02.syslibs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -36,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/twoday/06.filewith.py" />
-        <option value="$PROJECT_DIR$/twoday/exam.py" />
         <option value="$PROJECT_DIR$/threeday/01.dict.py" />
         <option value="$PROJECT_DIR$/threeday/02.set.py" />
         <option value="$PROJECT_DIR$/threeday/information" />
@@ -87,6 +106,8 @@
         <option value="$PROJECT_DIR$/07.module/sub/tools.py" />
         <option value="$PROJECT_DIR$/07.module/main.py" />
         <option value="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" />
+        <option value="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" />
+        <option value="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" />
       </list>
     </option>
   </component>
@@ -111,6 +132,31 @@
             <path>
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
+              <item name="07.module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
+              <item name="07.module" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
+              <item name="07.module" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="os_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
+              <item name="07.module" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="time_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
@@ -142,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01.oslibs">
+  <component name="RunManager" selected="Python.03.timelibs">
     <configuration name="01.oslibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +203,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.syslibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cloudpybasis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.stdlib_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03.timelibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cloudpybasis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.stdlib_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,28 +277,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cloudpybasis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/main02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tools (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,35 +299,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="urllibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cloudpybasis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/urllib/urllibs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.timelibs" />
+        <item itemvalue="Python.02.syslibs" />
         <item itemvalue="Python.01.oslibs" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.tools (1)" />
-        <item itemvalue="Python.urllibs" />
-        <item itemvalue="Python.main02" />
       </list>
     </recent_temporary>
   </component>
@@ -301,23 +347,23 @@
       <workItem from="1560205628365" duration="4849000" />
       <workItem from="1560215409193" duration="10791000" />
       <workItem from="1560233807415" duration="344000" />
-      <workItem from="1560234630891" duration="3589000" />
+      <workItem from="1560234630891" duration="4273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114022000" />
+    <option name="totallyTimeSpent" value="114706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36433122" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36433122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,8 +433,10 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1560217662473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_timelibs.coverage" NAME="03.timelibs Coverage Results" MODIFIED="1560239301992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$nnn.coverage" NAME="nnn Coverage Results" MODIFIED="1560212583037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_syslibs.coverage" NAME="02.syslibs Coverage Results" MODIFIED="1560239170819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_ospathuse.coverage" NAME="01.ospathuse Coverage Results" MODIFIED="1560208984337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/os_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_class_inhert.coverage" NAME="03.class.inhert Coverage Results" MODIFIED="1560157699081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$tools__1_.coverage" NAME="tools (1) Coverage Results" MODIFIED="1560224442494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sub" />
@@ -408,28 +456,6 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$02_dataStructure.coverage" NAME="02.dataStructure Coverage Results" MODIFIED="1559720427484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/trainExam/ExamTrain.txt" />
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/TrainExam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -605,10 +631,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/code/os_module/01.ospathuse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/code/time_module/timemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08.stdlib_module/01.oslibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="395">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.stdlib_module/02.syslibs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
