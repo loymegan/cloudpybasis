@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Train01/01.datatype01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Train01/02.list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Train01/03.functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/02.class_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/03.class.inhert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.class/pyTrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.module/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.module/nnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.module/os_module/01.ospathuse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.module/time_module/timemodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.module/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.class/01.class_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/06.class/01.class_define.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.class/02.atrribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.class/03.method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.class/04.inherit.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06.class/01.class_define.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,13 +73,23 @@
         <option value="$PROJECT_DIR$/Train01/02.list.py" />
         <option value="$PROJECT_DIR$/Train01/03.functions.py" />
         <option value="$PROJECT_DIR$/06.class/01.class_define.py" />
+        <option value="$PROJECT_DIR$/06.class/02.class_attribute.py" />
+        <option value="$PROJECT_DIR$/06.class/03.class.inhert.py" />
+        <option value="$PROJECT_DIR$/06.class/pyTrain.py" />
+        <option value="$PROJECT_DIR$/07.module/utils/tools.py" />
+        <option value="$PROJECT_DIR$/07.module/utils.py" />
+        <option value="$PROJECT_DIR$/07.module/main.py" />
+        <option value="$PROJECT_DIR$/07.module/os_module/01.ospathuse.py" />
+        <option value="$PROJECT_DIR$/07.module/sys_module/sysmodule.py" />
+        <option value="$PROJECT_DIR$/07.module/time_module/timemodule.py" />
+        <option value="$PROJECT_DIR$/07.module/nnn.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="459" />
     <option name="y" value="23" />
-    <option name="width" value="1415" />
+    <option name="width" value="981" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -108,7 +110,7 @@
             <path>
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="06.class" type="462c0819:PsiDirectoryNode" />
+              <item name="07.module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,8 +138,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01.class_define">
-    <configuration name="01.class_define" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.nnn">
+    <configuration name="01.ospathuse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module/os_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/01.class_define.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/os_module/01.ospathuse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.datatype01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train01/01.datatype01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train01/02.list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/nnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sysmodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +213,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module/sys_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train01/03.functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/sys_module/sysmodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.inherit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="timemodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module/time_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.class/04.inherit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/time_module/timemodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01.class_define" />
-        <item itemvalue="Python.03.functions" />
-        <item itemvalue="Python.02.list" />
-        <item itemvalue="Python.01.datatype01" />
-        <item itemvalue="Python.04.inherit" />
+        <item itemvalue="Python.nnn" />
+        <item itemvalue="Python.timemodule" />
+        <item itemvalue="Python.sysmodule" />
+        <item itemvalue="Python.01.ospathuse" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -289,23 +291,25 @@
       <workItem from="1559791599298" duration="1739000" />
       <workItem from="1560043209000" duration="7581000" />
       <workItem from="1560129213532" duration="6647000" />
-      <workItem from="1560143310460" duration="2170000" />
+      <workItem from="1560143310460" duration="5060000" />
+      <workItem from="1560155956600" duration="1907000" />
+      <workItem from="1560158951852" duration="1335000" />
+      <workItem from="1560205628365" duration="4849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88317000" />
+    <option name="totallyTimeSpent" value="99298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1415" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="23" width="1415" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36433122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,12 +370,17 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$02_list.coverage" NAME="02.list Coverage Results" MODIFIED="1560133758597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train01" />
     <SUITE FILE_PATH="coverage/cloudpybasis$fileio.coverage" NAME="fileio Coverage Results" MODIFIED="1559661195990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$05_functions_zyy.coverage" NAME="05.functions_zyy Coverage Results" MODIFIED="1559792690801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_class_attribute.coverage" NAME="02.class_attribute Coverage Results" MODIFIED="1560152598102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_define.coverage" NAME="01.functions_define Coverage Results" MODIFIED="1559708029992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
     <SUITE FILE_PATH="coverage/cloudpybasis$TrainExam.coverage" NAME="TrainExam Coverage Results" MODIFIED="1559784988476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$timemodule.coverage" NAME="timemodule Coverage Results" MODIFIED="1560210739137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/time_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_class_define.coverage" NAME="01.class_define Coverage Results" MODIFIED="1560148753311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$nnn.coverage" NAME="nnn Coverage Results" MODIFIED="1560212583037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_ospathuse.coverage" NAME="01.ospathuse Coverage Results" MODIFIED="1560208984337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/os_module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_class_inhert.coverage" NAME="03.class.inhert Coverage Results" MODIFIED="1560157699081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$examtrain.coverage" NAME="examtrain Coverage Results" MODIFIED="1559529055074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_atrribute.coverage" NAME="02.atrribute Coverage Results" MODIFIED="1560046097040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
@@ -380,12 +389,11 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$03_method.coverage" NAME="03.method Coverage Results" MODIFIED="1560048462671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$06_filewith.coverage" NAME="06.filewith Coverage Results" MODIFIED="1559552840939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_set.coverage" NAME="02.set Coverage Results" MODIFIED="1559636633510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$main.coverage" NAME="main Coverage Results" MODIFIED="1560207253559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$sysmodule.coverage" NAME="sysmodule Coverage Results" MODIFIED="1560210293197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sys_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_dataStructure.coverage" NAME="02.dataStructure Coverage Results" MODIFIED="1559720427484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/twoday/examtrain.py" />
-    <entry file="file://$PROJECT_DIR$/twoday/04.tuple.py" />
-    <entry file="file://$PROJECT_DIR$/twoday/test.py" />
     <entry file="file://$PROJECT_DIR$/twoday/05.fileio.py" />
     <entry file="file://$PROJECT_DIR$/twoday/01.string.py" />
     <entry file="file://$PROJECT_DIR$/twoday/test.txt" />
@@ -510,28 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.class/02.atrribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.class/03.method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/02.atrribute.py" />
+    <entry file="file://$PROJECT_DIR$/06.class/03.method.py" />
     <entry file="file://$PROJECT_DIR$/06.class/project.py" />
-    <entry file="file://$PROJECT_DIR$/06.class/04.inherit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/04.inherit.py" />
     <entry file="file://$PROJECT_DIR$/trainExam/information">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -581,10 +571,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/02.class_attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06.class/01.class_define.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="410">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/03.class.inhert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.class/pyTrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/utils/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/sys_module/sysmodule.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/nnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/time_module/timemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.module/os_module/01.ospathuse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
