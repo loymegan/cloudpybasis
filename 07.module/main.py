@@ -1,7 +1,10 @@
+from tools import readf
+from tools import asum
 
-from utils import Tools
+text = []
+for line in readf("./module.txt"):
+    text.append(line.strip("\n"))
+print(text)
 
-a = Tools(10, 5)
-print(a.asum())
-print(a.tsum())
-
+sum01 = asum(23, 46)
+print(sum01)
