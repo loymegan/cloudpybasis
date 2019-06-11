@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="324">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -106,8 +103,8 @@
         <option value="$PROJECT_DIR$/07.module/sub/tools.py" />
         <option value="$PROJECT_DIR$/07.module/main.py" />
         <option value="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" />
-        <option value="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" />
         <option value="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" />
+        <option value="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" />
       </list>
     </option>
   </component>
@@ -347,23 +344,23 @@
       <workItem from="1560205628365" duration="4849000" />
       <workItem from="1560215409193" duration="10791000" />
       <workItem from="1560233807415" duration="344000" />
-      <workItem from="1560234630891" duration="4273000" />
+      <workItem from="1560234630891" duration="4317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114706000" />
+    <option name="totallyTimeSpent" value="114750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36433122" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36433122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -661,8 +658,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="324">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>

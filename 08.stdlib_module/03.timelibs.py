@@ -13,3 +13,7 @@ import time
 time.sleep(0.3)         # 设置延迟时间,经常用来设置进程暂停的时间
 print(time.time())      # 可用来统计一段程序的运行时间
 print(time.time())
+
+
+
+
