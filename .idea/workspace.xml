@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.mysql_opera/01.pymysql_opera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/chaoliu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/chaoliu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,30 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.stdlib_module/01.oslibs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08.stdlib_module/02.syslibs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
+        <entry file="file://$PROJECT_DIR$/10.mysql_opera/01.pymysql_opera.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="579">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="e#61#75#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,9 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/threeday/01.dict.py" />
-        <option value="$PROJECT_DIR$/threeday/02.set.py" />
-        <option value="$PROJECT_DIR$/threeday/information" />
         <option value="$PROJECT_DIR$/threeday/fileio.py" />
         <option value="$PROJECT_DIR$/04.functions/information" />
         <option value="$PROJECT_DIR$/04.functions/01.functions_define.py" />
@@ -105,10 +90,13 @@
         <option value="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" />
         <option value="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" />
         <option value="$PROJECT_DIR$/08.stdlib_module/03.timelibs.py" />
+        <option value="$PROJECT_DIR$/md/text.py" />
+        <option value="$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py" />
+        <option value="$PROJECT_DIR$/10.mysql_opera/01.pymysql_opera.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="25" />
     <option name="y" value="23" />
     <option name="width" value="1415" />
@@ -122,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,40 +117,11 @@
               <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="07.module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="07.module" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="07.module" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="os_module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="07.module" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="time_module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloudpybasis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudpybasis" type="462c0819:PsiDirectoryNode" />
-              <item name="08.stdlib_module" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,8 +143,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03.timelibs">
-    <configuration name="01.oslibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01.pymysql_opera">
+    <configuration name="01.functions_dt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.stdlib_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.stdlib_module/01.oslibs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.syslibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01.paramiko_remote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +174,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08.stdlib_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.remote_opera" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.stdlib_module/02.syslibs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01.pymysql_opera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cloudpybasis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.mysql_opera" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.mysql_opera/01.pymysql_opera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cloudpybasis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,34 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/md" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tools (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cloudpybasis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.module/sub" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.module/sub/tools.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/md/text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01.pymysql_opera" />
+        <item itemvalue="Python.01.functions_dt" />
+        <item itemvalue="Python.01.paramiko_remote" />
+        <item itemvalue="Python.text" />
         <item itemvalue="Python.03.timelibs" />
-        <item itemvalue="Python.02.syslibs" />
-        <item itemvalue="Python.01.oslibs" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.tools (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -344,18 +302,24 @@
       <workItem from="1560205628365" duration="4849000" />
       <workItem from="1560215409193" duration="10791000" />
       <workItem from="1560233807415" duration="344000" />
-      <workItem from="1560234630891" duration="4317000" />
+      <workItem from="1560234630891" duration="4954000" />
+      <workItem from="1560241145453" duration="4669000" />
+      <workItem from="1560303097010" duration="118000" />
+      <workItem from="1560303616877" duration="55000" />
+      <workItem from="1560305485586" duration="12000" />
+      <workItem from="1560307755786" duration="31000" />
+      <workItem from="1560307802878" duration="3238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114750000" />
+    <option name="totallyTimeSpent" value="123510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1415" height="877" extended-state="0" />
+    <frame x="25" y="23" width="1415" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1587764" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1565914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,7 +333,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3133758" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.54394907" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,6 +370,27 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cloudpybasis$01_datatype.coverage" NAME="01.datatype Coverage Results" MODIFIED="1559718217586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_functions_dg.coverage" NAME="03.functions_dg Coverage Results" MODIFIED="1559789568939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_paramiko_remote.coverage" NAME="01.paramiko_remote Coverage Results" MODIFIED="1560303154949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.remote_opera" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_functions_qt.coverage" NAME="02.functions_qt Coverage Results" MODIFIED="1559787026730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$05_functions_zyy.coverage" NAME="05.functions_zyy Coverage Results" MODIFIED="1559792690801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_class_attribute.coverage" NAME="02.class_attribute Coverage Results" MODIFIED="1560152598102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$timemodule.coverage" NAME="timemodule Coverage Results" MODIFIED="1560210739137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/time_module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_class_define.coverage" NAME="01.class_define Coverage Results" MODIFIED="1560148753311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$03_timelibs.coverage" NAME="03.timelibs Coverage Results" MODIFIED="1560239301992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$nnn.coverage" NAME="nnn Coverage Results" MODIFIED="1560212583037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_ospathuse.coverage" NAME="01.ospathuse Coverage Results" MODIFIED="1560208984337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/os_module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$tools__1_.coverage" NAME="tools (1) Coverage Results" MODIFIED="1560224442494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sub" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$urllibs.coverage" NAME="urllibs Coverage Results" MODIFIED="1560223452646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/urllib" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$main02.coverage" NAME="main02 Coverage Results" MODIFIED="1560221376693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$02_atrribute.coverage" NAME="02.atrribute Coverage Results" MODIFIED="1560046097040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$text.coverage" NAME="text Coverage Results" MODIFIED="1560246310727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/md" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1560303663035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$sysmodule.coverage" NAME="sysmodule Coverage Results" MODIFIED="1560210293197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sys_module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$main.coverage" NAME="main Coverage Results" MODIFIED="1560226996300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_dataType.coverage" NAME="01.dataType Coverage Results" MODIFIED="1559719397020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_dict.coverage" NAME="01.dict Coverage Results" MODIFIED="1559632577316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_condition.coverage" NAME="03.condition Coverage Results" MODIFIED="1559720957732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
@@ -414,67 +399,27 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$04_functions_nm.coverage" NAME="04.functions_nm Coverage Results" MODIFIED="1559791103181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_oslibs.coverage" NAME="01.oslibs Coverage Results" MODIFIED="1560238572587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$answer.coverage" NAME="answer Coverage Results" MODIFIED="1559727023995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$03_functions_dg.coverage" NAME="03.functions_dg Coverage Results" MODIFIED="1559789568939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_cycle.coverage" NAME="04.cycle Coverage Results" MODIFIED="1559724160072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_functions.coverage" NAME="03.functions Coverage Results" MODIFIED="1560143337636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train01" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_inherit.coverage" NAME="04.inherit Coverage Results" MODIFIED="1560050918554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$02_functions_qt.coverage" NAME="02.functions_qt Coverage Results" MODIFIED="1559787026730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_list.coverage" NAME="02.list Coverage Results" MODIFIED="1560133758597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train01" />
     <SUITE FILE_PATH="coverage/cloudpybasis$fileio.coverage" NAME="fileio Coverage Results" MODIFIED="1559661195990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$05_functions_zyy.coverage" NAME="05.functions_zyy Coverage Results" MODIFIED="1559792690801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$02_class_attribute.coverage" NAME="02.class_attribute Coverage Results" MODIFIED="1560152598102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_define.coverage" NAME="01.functions_define Coverage Results" MODIFIED="1559708029992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
     <SUITE FILE_PATH="coverage/cloudpybasis$TrainExam.coverage" NAME="TrainExam Coverage Results" MODIFIED="1559784988476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$timemodule.coverage" NAME="timemodule Coverage Results" MODIFIED="1560210739137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/time_module" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$01_class_define.coverage" NAME="01.class_define Coverage Results" MODIFIED="1560148753311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1560217662473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$project.coverage" NAME="project Coverage Results" MODIFIED="1559547437565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$checkcpuinfo.coverage" NAME="checkcpuinfo Coverage Results" MODIFIED="1559716267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.functions" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$03_timelibs.coverage" NAME="03.timelibs Coverage Results" MODIFIED="1560239301992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$nnn.coverage" NAME="nnn Coverage Results" MODIFIED="1560212583037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$01_pymysql_opera.coverage" NAME="01.pymysql_opera Coverage Results" MODIFIED="1560311164369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.mysql_opera" />
     <SUITE FILE_PATH="coverage/cloudpybasis$exam.coverage" NAME="exam Coverage Results" MODIFIED="1559613273474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_syslibs.coverage" NAME="02.syslibs Coverage Results" MODIFIED="1560239170819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.stdlib_module" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$01_ospathuse.coverage" NAME="01.ospathuse Coverage Results" MODIFIED="1560208984337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/os_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_class_inhert.coverage" NAME="03.class.inhert Coverage Results" MODIFIED="1560157699081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$tools__1_.coverage" NAME="tools (1) Coverage Results" MODIFIED="1560224442494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sub" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$urllibs.coverage" NAME="urllibs Coverage Results" MODIFIED="1560223452646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/urllib" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$05_fileio.coverage" NAME="05.fileio Coverage Results" MODIFIED="1559551967382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$tools.coverage" NAME="tools Coverage Results" MODIFIED="1560219732962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$examtrain.coverage" NAME="examtrain Coverage Results" MODIFIED="1559529055074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$main02.coverage" NAME="main02 Coverage Results" MODIFIED="1560221376693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$02_atrribute.coverage" NAME="02.atrribute Coverage Results" MODIFIED="1560046097040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$04_tuple.coverage" NAME="04.tuple Coverage Results" MODIFIED="1559544719896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1559785355423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
     <SUITE FILE_PATH="coverage/cloudpybasis$03_method.coverage" NAME="03.method Coverage Results" MODIFIED="1560048462671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$06_filewith.coverage" NAME="06.filewith Coverage Results" MODIFIED="1559552840939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoday" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_set.coverage" NAME="02.set Coverage Results" MODIFIED="1559636633510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeday" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$sysmodule.coverage" NAME="sysmodule Coverage Results" MODIFIED="1560210293197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sys_module" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$main.coverage" NAME="main Coverage Results" MODIFIED="1560226996300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$02_dataStructure.coverage" NAME="02.dataStructure Coverage Results" MODIFIED="1559720427484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/02.functions_qt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/04.functions_nm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.functions_advanced/05.functions_zyy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.class/02.atrribute.py" />
     <entry file="file://$PROJECT_DIR$/06.class/03.method.py" />
     <entry file="file://$PROJECT_DIR$/06.class/project.py" />
     <entry file="file://$PROJECT_DIR$/06.class/04.inherit.py" />
@@ -642,6 +587,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/md/text.py" />
     <entry file="file://$PROJECT_DIR$/08.stdlib_module/01.oslibs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -649,17 +595,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08.stdlib_module/02.syslibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="459">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08.stdlib_module/03.timelibs.py">
+    <entry file="file://$PROJECT_DIR$/05.functions_advanced/01.functions_dt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="486">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.mysql_opera/01.pymysql_opera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#61#75#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
