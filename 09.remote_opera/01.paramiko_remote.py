@@ -16,8 +16,9 @@ while True:
     # 执行命令，输出结果在stdout中，如果是错误则放在stderr中
     stdin, stdout, stderr = ssh.exec_command(input_command)
     result = stdout.read()  # read方法读取输出结果
-    if len(result) == 0:  # 判断如果输出结果长度等于0表示为错误输出
+    if len(result) == 0:    # 判断如果输出结果长度等于0表示为错误输出
         print(stderr.read())
     else:
         print(str(result, 'utf-8'))
+
 ssh.close()
