@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce8b706-f8f7-452b-bf47-c3f85871ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09.remote_opera/opera02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.remote_opera/opera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.remote_opera/opera02.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.remote_opera/opera02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09.remote_opera/opera02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="276">
+              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="276">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -116,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,22 +320,23 @@
       <workItem from="1560307755786" duration="31000" />
       <workItem from="1560307802878" duration="3745000" />
       <workItem from="1560320032522" duration="2614000" />
-      <workItem from="1560322784624" duration="1313000" />
+      <workItem from="1560322784624" duration="2109000" />
+      <workItem from="1560327161249" duration="1723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127944000" />
+    <option name="totallyTimeSpent" value="130463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16314639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36433122" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36433122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,7 +345,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.45477706" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2700637" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,7 +402,7 @@
     <SUITE FILE_PATH="coverage/cloudpybasis$02_atrribute.coverage" NAME="02.atrribute Coverage Results" MODIFIED="1560046097040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.class" />
     <SUITE FILE_PATH="coverage/cloudpybasis$text.coverage" NAME="text Coverage Results" MODIFIED="1560246310727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/md" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_functions_dt.coverage" NAME="01.functions_dt Coverage Results" MODIFIED="1560303663035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.functions_advanced" />
-    <SUITE FILE_PATH="coverage/cloudpybasis$opera02.coverage" NAME="opera02 Coverage Results" MODIFIED="1560323930611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.remote_opera" />
+    <SUITE FILE_PATH="coverage/cloudpybasis$opera02.coverage" NAME="opera02 Coverage Results" MODIFIED="1560328887144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.remote_opera" />
     <SUITE FILE_PATH="coverage/cloudpybasis$sysmodule.coverage" NAME="sysmodule Coverage Results" MODIFIED="1560210293197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module/sys_module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$main.coverage" NAME="main Coverage Results" MODIFIED="1560226996300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.module" />
     <SUITE FILE_PATH="coverage/cloudpybasis$01_dataType.coverage" NAME="01.dataType Coverage Results" MODIFIED="1559719397020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainExam" />
@@ -648,15 +648,15 @@
     <entry file="file://$PROJECT_DIR$/09.remote_opera/opera.py" />
     <entry file="file://$PROJECT_DIR$/09.remote_opera/01.paramiko_remote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="276">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/09.remote_opera/opera02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="276">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>
